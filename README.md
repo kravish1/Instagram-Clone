@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Instagram Clone
+Instagram Clone Project
 
 Deployed URL : https://instagram-clone-beb81.web.app/
 
